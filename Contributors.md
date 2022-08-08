@@ -354,6 +354,7 @@ Harsh Shah
 - [Vikas Adhikari](https://gimage.pngithub.com/VikasAdhikari07)
 - [TJ Ries](https://github.com/tj-ries)
 - [Sankalp]
+- [Brian Stewart](https://github.com/Brians0506)
 - [Harsh Raghuwanshi](https://github.com/harsha094)
 - [Isaac Bowser]
 - [Laban Bwire](https://github.com/delabi/first-contributions)
